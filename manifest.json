@@ -1,0 +1,11 @@
+{
+  "Name": "碰到什么就和什么结婚",
+  "Author": "MarryOnTouch",
+  "Version": "1.0.7",
+  "Description": "撞到人、物品或植物，或被 NPC 撞到，就举行婚礼。礼成后从当天清晨重新挑战。",
+  "UniqueID": "MarryOnTouch.Challenge",
+  "EntryDll": "MarryOnTouch.dll",
+  "MinimumApiVersion": "4.4.0",
+  "MinimumGameVersion": "1.6.15",
+  "UpdateKeys": []
+}
